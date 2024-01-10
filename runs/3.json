@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "source": {
+        "digest": {
+            "sha256": "35e134ca842ce78d22b8d59d23f56758a9011ce4be5e02678aa976014d21084e"
+        }
+    },
+    "dependencies": [
+        {
+            "name": "dataset-3",
+            "digest": {
+                "sha256": "..."
+            }
+        },
+        {
+            "name": "pyton dep3",
+            "digest": {
+                "sha256": "..."
+            }
+        }
+    ]
+}
